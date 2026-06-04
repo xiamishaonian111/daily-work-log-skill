@@ -18,6 +18,7 @@ This is a public template repo for a generic daily work log skill. It must remai
 - `templates/weekly-summary.md`: weekly summary template.
 - `templates/brag-doc.md`: brag doc template.
 - `examples/sanitized-daily-work-log.md`: safe generic example.
+- `guides/leadership-sync-playbook.md`: public-safe guide for ownership and project sync conversations.
 
 ## Working Rules
 

@@ -23,6 +23,7 @@ The goal is to capture useful work evidence in 5 minutes per day, then reuse it 
 - `templates/weekly-summary.md`: weekly summary template.
 - `templates/brag-doc.md`: brag doc template.
 - `examples/sanitized-daily-work-log.md`: safe generic example.
+- `guides/leadership-sync-playbook.md`: public-safe guide for ownership and project sync conversations.
 
 ## Quick Use
 
